@@ -11,7 +11,7 @@
 ## 主要设备
 
 ### :computer: 电脑及配件
-- **Apple MacBook Pro (16-inch，2019) 银色，2.4 GHz 八核 Intel Core i5，16GB RAM，256G SSD**，工作需要 高频使用 
+- **Apple MacBook Pro (16-inch，2020) 银色，M1 max，16GB RAM，256G SSD**，工作需要 高频使用 
 - **Raspberry Pi 3B+，1.4GHz 四核 ARM Cortex-A53，1G RAM，64 GB MicroSD**，几年前折腾的树莓派，现在闲置了
 - **明基（BenQ）ScreenBar Halo 屏幕挂灯**，控制光的亮度，好用推荐
 - **Logitech MX Master 3 鼠标，灰色**，主力鼠标，手感和侧键功能都很棒，配合剪视频也很棒
@@ -19,8 +19,7 @@
 - **Apple Magic Trackpad 触控板，白色**，在家配合着鼠标使用，体验感不错
 
 ### :iphone: 手机及平板
-- **Apple iPhone 13PM 远峰蓝色，256GB**，主力手机，配合苹果全家桶体验很好，不过手机基本上戒了，主要就用作沟通和看看资讯，应该很久都不会换了
-- **Apple iPhone 13PM 远峰蓝色，256GB**，主力手机，配合苹果全家桶体验很好，不过手机基本上戒了，主要就用作沟通和看看资讯，应该很久都不会换了
+- **Apple iPhone 13PM 远峰蓝色，256GB**，主力手机，配合苹果全家桶体验很好，不过手机基本上戒了，主要就用作沟通和理解看看资讯，应该很久都不会换了
 - **Apple iPad mini (第5代)，64GB**，主要用来作拓展屏或者放视频了，很少作什么生产力工具使用，大部分电脑能做的都不会放到 iPad 上做
 
 
