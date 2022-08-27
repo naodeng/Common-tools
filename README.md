@@ -152,7 +152,7 @@
   - **TestFlight**，尝鲜一些测试版应用
   - **One Search**，聚合搜索不同应用的内容
 - 📝 记录工具
-  - **Obsidian**，iOS 端，主要用来查看
+  - **Bear**，iOS 端，主要笔记工具
   - **Office 365**，iOS 端，通过 Office365 帐号和 OneDrive 进行同步
   - **iWork 全家桶**，iOS 端
 - 🏚 家庭管理
@@ -191,3 +191,7 @@
   - **哔哩哔哩**，主要用来看关注的各类博主更新
   - **Apple Music**，iOS 端
   - **Apple Podcasts**，主要通过 iOS 端收听播客
+
+
+
+
